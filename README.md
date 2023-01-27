@@ -15,7 +15,7 @@ I am an economics undergraduate student interested in data analysis and programm
 
 ***
 
-# ✏️ PROJECTS
+# ✏️ Projects
 
 - <a href="#python">Data Analysis with Python</a> <br>
 - <a href="#sql">Data Analysis with SQL</a> <br>
