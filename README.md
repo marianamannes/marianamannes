@@ -31,13 +31,10 @@ Certificates: <br>
 &emsp; - [Python for Data Science](https://cursos.alura.com.br/degree/certificate/b6db70d0-ba43-4596-9523-4f0b220fda57) <br>
 &emsp; - [Statistics with Python](https://cursos.alura.com.br/degree/certificate/ac4b131d-308d-4776-9558-800149a10571)  <br>
 
-## [TMDB Movie Analysis](https://github.com/marianamannes/tmdb-movie-analysis)
-
-<a href="https://github.com/marianamannes/tmdb-movie-analysis"><img src="https://i.ibb.co/ChKhdX8/tmdb-movie-analysis.png"></a>
-
-##  [INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)
-
-<a href="https://github.com/marianamannes/inep-microdata-analysis"><img src="https://i.ibb.co/5rvZmRp/inep-microdata-analysis.png"></a>
+|Project Name|Description|Libraries|
+|-----|-----|-----|
+|[📽️ TMDB Movie Analysis](https://github.com/marianamannes/tmdb-movie-analysis)|In this project, my goal was to answer some case study questions through the Python language about the dataset from Kaggle: TMDb Movies Dataset, which contains information about 10k movies collected from The Movie Database (TMDb).| *pandas, matplotlib, seaborn* |
+|[📚 INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)| Analyzing data from the 2021 ENEM test through the Python language, with data cleaning, data visualization and hypothesis testing.| *pandas, numpy, matplotlib, seaborn, geopandas, scipy* |
 
 <h1 id="sql">🔸 Data Analysis with SQL </h1>
 
@@ -47,14 +44,10 @@ Certificates:<br>
 &emsp; - [Databases And SQL Full Course](https://i.ibb.co/0CMm0vz/Certificado-Banco-de-Dados.jpg)<br>
 &emsp; - [SQL for Data Science](https://i.ibb.co/zVKtpsj/Certificado-SQL-for-Data-Science.jpg)  
 
-## [8 Week SQL Challenge](https://github.com/marianamannes/8-week-sql-challenge)
-
-<a href="https://github.com/marianamannes/8-week-sql-challenge"><img src="https://i.ibb.co/jHYhFq7/8-week-sql-challenge.png"></a>
-
-## [Northwind Database Analysis](https://github.com/marianamannes/northwind-database-analysis)
-
-<a href="https://github.com/marianamannes/northwind-database-analysis"><img src="https://i.ibb.co/wQPyQcK/northwind-database-analysis.png"></a>
-
+|Project Name|Description|SQL Functions|
+|-----|-----|-----|
+|[🎒 8 Week SQL Challenge](https://github.com/marianamannes/8-week-sql-challenge)|In the 8 Week SQL Challenge, many different databases were made available and the goal was to answer business problems with MYSQL.|*aggregations, joins, CTEs*|
+|[🍃 Northwind Database Analysis](https://github.com/marianamannes/northwind-database-analysis)|In this project, my goal was to perform an analysis of the company Northwind Traders through SQL Server.|*aggregations, joins, CTEs*|
 
 <h1 id="power-bi">🔸 Power BI </h1>
 
@@ -64,17 +57,10 @@ Certificates: <br>
 &emsp; -  [Master Power BI](https://i.ibb.co/q0xQYN8/Certificado-Power-BI.jpg)<br>
 &emsp; - [Report Analysis with Power BI](https://cursos.alura.com.br/certificate/cda19006-369e-4c37-ba6f-2b6fc6762de3)
 
-## [Alura Shop](https://app.powerbi.com/view?r=eyJrIjoiYjhmOWQyMjUtYTRmNC00MWUxLWE1YjItMTNjYzc3MTZmYTg5IiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)
-
-In this challenge, the goal was to create a marketing dashboard to monitor a paid advertising campaign during the month of July 2021 for Alura Shop, with relevant indicators for the strategic analysis of the business.
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYjhmOWQyMjUtYTRmNC00MWUxLWE1YjItMTNjYzc3MTZmYTg5IiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9"><img src="https://i.ibb.co/mSqDdg8/Captura-de-tela-2023-01-26-225203.png"></a>
-
-## [Spotify Charts](https://app.powerbi.com/view?r=eyJrIjoiNjc1MzAwZjctY2RlZS00YzczLWJlMjEtOTY0ZWU0ZDQ5OWYwIiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)
-
-Dashboard of the top songs, albums artists of all time in Spotify through Power BI, with automatic daily update of the data source.
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNjc1MzAwZjctY2RlZS00YzczLWJlMjEtOTY0ZWU0ZDQ5OWYwIiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9"><img src="https://i.ibb.co/3dRN1r9/Captura-de-tela-2023-01-26-223451.png"></a>
+|Project Name|Description|Dashboard link|
+|-----|-----|-----|
+|🛒 Alura Shop|In this challenge, the goal was to create a marketing dashboard to monitor a paid advertising campaign during the month of July 2021 for Alura Shop, with relevant indicators for the strategic analysis of the business.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjhmOWQyMjUtYTRmNC00MWUxLWE1YjItMTNjYzc3MTZmYTg5IiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)|
+|🎵 Spotify Charts|Dashboard of the top songs, albums artists of all time in Spotify through Power BI, with automatic daily update of the data source.|[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjc1MzAwZjctY2RlZS00YzczLWJlMjEtOTY0ZWU0ZDQ5OWYwIiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)|
 
 ***
 
