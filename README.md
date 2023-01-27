@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marianamannes)](https://github.com/marianamannes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianamannes/)](https://www.linkedin.com/in/marianamannes/)
 
-I am an economics undergraduate student at UFSC, interested in data analysis and programming. My goal is to solve business problems with statistics and forecasts, using programming languages and tools such as Python, SQL and Power BI. Currently I am developing my skills in data manipulation, data visualization and data modeling by taking related courses and building projects.
+I am an economics undergraduate student at UFSC, interested in data analysis and programming. My goal is to solve business problems with statistical methods, using programming languages and tools such as Python, SQL and Power BI. Currently I am developing my skills in data manipulation, data visualization and data modeling by taking related courses and building projects.
 
 ## Languages and tools
 <div style="display: inline_block">
