@@ -23,7 +23,9 @@ I am an economics undergraduate student interested in data analysis and programm
 
 ***
 
-<h1 id="python">🔸 Data Analysis with Python </h1>
+<h1 id="python">
+  🔸 Data Analysis with Python 
+</h1>
 
 Experience level: Intermediate Python
 
@@ -36,7 +38,9 @@ Certificates: <br>
 |[📽️ TMDB Movie Analysis](https://github.com/marianamannes/tmdb-movie-analysis)|In this project, my goal was to answer some case study questions through the Python language about the dataset from Kaggle: TMDb Movies Dataset, which contains information about 10k movies collected from The Movie Database (TMDb).| *pandas, matplotlib, seaborn* |
 |[📚 INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)| Analyzing data from the 2021 ENEM test through the Python language, with data cleaning, data visualization and hypothesis testing.| *pandas, numpy, matplotlib, seaborn, geopandas, scipy* |
 
-<h1 id="sql">🔸 Data Analysis with SQL </h1>
+<h1 id="sql">
+  🔸 Data Analysis with SQL]
+</h1>
 
 Experience level: Intermediate SQL
 
@@ -49,7 +53,9 @@ Certificates:<br>
 |[🎒 8 Week SQL Challenge](https://github.com/marianamannes/8-week-sql-challenge)|In the 8 Week SQL Challenge, many different databases were made available and the goal was to answer business problems with MYSQL.|*aggregations, joins, CTEs*|
 |[🍃 Northwind Database Analysis](https://github.com/marianamannes/northwind-database-analysis)|In this project, my goal was to perform an analysis of the company Northwind Traders through SQL Server.|*aggregations, joins, CTEs*|
 
-<h1 id="power-bi">🔸 Power BI </h1>
+<h1 id="power-bi">
+  🔸 Power BI 
+</h1>
 
 Experience level: Intermediate Power BI
 
