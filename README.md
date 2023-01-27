@@ -39,7 +39,7 @@ Certificates: <br>
 |[📚 INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)| Analyzing data from the 2021 ENEM test through the Python language, with data cleaning, data visualization and hypothesis testing.| *pandas, numpy, matplotlib, seaborn, geopandas, scipy* |
 
 <h1 id="sql">
-  🔸 Data Analysis with SQL]
+  🔸 Data Analysis with SQL
 </h1>
 
 Experience level: Intermediate SQL
