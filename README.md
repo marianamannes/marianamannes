@@ -32,6 +32,7 @@ Experience level: Intermediate Python
 Certificates: <br>
 &emsp; - [Python for Data Science](https://cursos.alura.com.br/degree/certificate/b6db70d0-ba43-4596-9523-4f0b220fda57) <br>
 &emsp; - [Statistics with Python](https://cursos.alura.com.br/degree/certificate/ac4b131d-308d-4776-9558-800149a10571)  <br>
+&emsp; - [Python and Object-Oriented Programming](https://cursos.alura.com.br/degree/certificate/bde6c715-877f-450f-bfec-050c9c1a89bd)  <br>
 
 |Project Name|Description|Libraries|
 |-----|-----|-----|
