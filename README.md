@@ -21,7 +21,7 @@ Projects that contain the main the steps of a data science project, including pr
 
 |Project Name|Libraries|Description|
 |-----|-----|-----|
-|[Florianópolis Rental Prices](https://github.com/marianamannes/florianopolis-rental-prices)|*Pandas, Numpy, Seaborn, Matplotlib, Re, URRLIB, BS4, Statsmodel and Sklearn.*|Web scraping over 1000 apartments for rent information, analysing the data collected, creating machine learning models and analyzing evaluation metrics.|
+|[Florianópolis Rental Prices](https://github.com/marianamannes/florianopolis-rental-prices)|*Pandas, Numpy, Seaborn, Matplotlib, Re, URRLIB, BS4, Statsmodel and Sklearn.*|Web scraping over 1000 apartments for rent information, analysing the data collected, creating machine learning models and interpreting evaluation metrics.|
 
 ***
 
