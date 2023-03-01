@@ -19,9 +19,9 @@ I am an economics undergraduate student at UFSC, interested in data analysis and
 
 Projects that contain the main the steps of a data science project, including project planning, data collection, data wrangling, exploratory data analysis, model building and model evaluation.
 
-|Project Name|Description|Libraries|
+|Project Name|Libraries|Description|
 |-----|-----|-----|
-|[Florianópolis Rental Prices](https://github.com/marianamannes/florianopolis-rental-prices)|Web scraping over 1000 apartments for rent information, analysing the data collected, creating models that predicts the rental price by the properties information and evaluating models.|*Pandas, Numpy, Seaborn, Matplotlib, Re, URRLIB, BS4, Statsmodel and Sklearn.*|
+|[Florianópolis Rental Prices](https://github.com/marianamannes/florianopolis-rental-prices)|*Pandas, Numpy, Seaborn, Matplotlib, Re, URRLIB, BS4, Statsmodel and Sklearn.*|Web scraping over 1000 apartments for rent information, analysing the data collected, creating machine learning models and analyzing evaluation metrics.|
 
 ***
 
