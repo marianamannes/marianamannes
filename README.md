@@ -30,7 +30,7 @@ Projects that contain the main the steps of a data science project, including pr
 |Project Name|Tools|Description|
 |-----|-----|-----|
 |[TMDB Movie Analysis](https://github.com/marianamannes/tmdb-movie-analysis)|Python|In this project, my goal was to answer some case study questions through the Python language about the dataset from Kaggle: TMDb Movies Dataset, which contains information about 10k movies collected from The Movie Database (TMDb).|
-|[INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)|Python|Analyzing data from the 2021 ENEM test through the Python language, with data cleaning, data visualization and hypothesis testing.|
+|[INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)|Python|Analysing data from the 2021 ENEM test through the Python language, with data cleaning, data visualization and hypothesis testing.|
 |[8 Week SQL Challenge](https://github.com/marianamannes/8-week-sql-challenge)|SQL|In the 8 Week SQL Challenge, many different databases were made available and the goal was to answer business problems with MYSQL.|
 |[Northwind Database Analysis](https://github.com/marianamannes/northwind-database-analysis)|SQL|In this project, my goal was to perform an analysis of the company Northwind Traders through SQL Server.|
 |[Alura Shop](https://app.powerbi.com/view?r=eyJrIjoiYjhmOWQyMjUtYTRmNC00MWUxLWE1YjItMTNjYzc3MTZmYTg5IiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9)|PowerBI|In this challenge, the goal was to create a marketing dashboard to monitor a paid advertising campaign during the month of July 2021 for Alura Shop, with relevant indicators for the strategic analysis of the business.|
