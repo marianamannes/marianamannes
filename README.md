@@ -21,7 +21,8 @@ Projects that contain the main the steps of a data science project, including pr
 
 |Project Name|Libraries|Description|
 |-----|-----|-----|
-|[Florianópolis Rental Prices](https://github.com/marianamannes/florianopolis-rental-prices)|*pandas, numpy, seaborn, matplotlib, re, urllib, bs4, statsmodel and sklearn.*|Web scraping over 1000 apartments for rent information, analysing the data collected, creating machine learning models and interpreting evaluation metrics.|
+|[Titanic Project](https://github.com/marianamannes/titanic-prediction)|*pandas, numpy, seaborn, matplotlib, re, sklearn*|EDA, feature engineering, data preprocessing, model building, model tuning and model evaluation to create machine learning classification models for the competition Titanic - Machine Learning from Disaster from Kaggle.|
+|[Florianópolis Rental Prices](https://github.com/marianamannes/florianopolis-rental-prices)|*pandas, numpy, seaborn, matplotlib, re, urllib, bs4, statsmodel and sklearn.*|Web scraping over 1000 apartments for rent information, analysing the data collected, creating machine learning regression models and interpreting evaluation metrics.|
 
 ***
 
