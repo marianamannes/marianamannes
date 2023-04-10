@@ -15,7 +15,7 @@ With a background in economics, I'm a data analyst with experience in collecting
 
 ***
 
-# 🔹  Data Analysis Projects
+# Data Analysis Projects
 
 |Project Name|Tools|Description|
 |-----|-----|-----|
@@ -25,7 +25,7 @@ With a background in economics, I'm a data analyst with experience in collecting
 |[INEP Microdata Analysis](https://github.com/marianamannes/inep-microdata-analysis)|Python|Analyzing data from the 2021 ENEM test through the Python language, with data cleaning, data visualization and hypothesis testing.|
 |[TMDB Movie Analysis](https://github.com/marianamannes/tmdb-movie-analysis)|Python|In this project, my goal was to answer some case study questions through the Python language about the dataset from Kaggle: TMDb Movies Dataset, which contains information about 10k movies collected from The Movie Database (TMDb).|
 
-# 🔹 Data Science Projects
+# Data Science Projects
 
 Projects that contain the main the steps of a data science project, including project planning, data collection, data wrangling, exploratory data analysis, model building and model evaluation.
 
