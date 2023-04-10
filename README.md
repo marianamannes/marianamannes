@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marianamannes)](https://github.com/marianamannes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianamannes/)](https://www.linkedin.com/in/marianamannes/)
 
-With a background in economics, I'm a data analyst with experience in collecting, analyzing and visualizing data using Python, SQL and Power BI. My goal is to solve business problems with statistical methods, programming languages, dashboards and Machine Learning models.
+With a background in economics, I'm a data analyst with experience in collecting, analyzing and visualizing data using Python, SQL and Power BI. My goal is to solve business problems with data analysis, statistical methods, dashboards and Machine Learning models.
 
 ## Languages and tools
 <div style="display: inline_block">
