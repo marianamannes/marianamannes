@@ -19,5 +19,6 @@ Data analyst with experience in collecting, analyzing and visualizing data.
 
 |Project Name|Tools|Description|
 |-----|-----|-----|
+|[Event-Driven Serverless ETL Pipeline on AWS](https://github.com/marianamannes/aws-etl-pipeline)|AWS, Python, MYSQL|A project that utilizes AWS to create an ETL pipeline, retrieving data from an S3 bucket, transforming it into a normalized data warehouse format, and loading it into a MySQL database.|
 |[8 Week SQL Challenge](https://github.com/marianamannes/8-week-sql-challenge)|SQL|In the 8 Week SQL Challenge, many different databases were made available and the goal was to answer business problems with MYSQL.|
 |[Meta DB Engineer Capstone Project](https://github.com/marianamannes/db-capstone-project)|SQL, Python, Tableau|A capstone project in which I’ve developed a database and client for a fast-food restaurant.|
