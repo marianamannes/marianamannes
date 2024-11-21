@@ -9,7 +9,7 @@ Data analyst with experience in collecting, analyzing and visualizing data.
 <div style="display: inline_block">
   <img align="center" height="45" width="45" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="45" width=35" src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png">
+  <img align="center" height="45" width=35" src="https://cdn.worldvectorlogo.com/logos/metabase.svg">
   <img align="center" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png.png">
 </div>
 
