@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianamdeiros/)](https://www.linkedin.com/in/marianamdeiros/)
 
 Data professional with experience in data analysis, visualization, and building scalable ETL processes.<br>
-Focused on ensuring data consistency and aligning analysis with business strategy to drive data-driven decision-making.
+Focused on ensuring data consistency and aligning analysis with business strategy to enable data-driven decision-making.
 
 ## Languages and tools
 <div style="display: inline_block">
